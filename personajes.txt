@@ -3,3 +3,5 @@ personajes:
 mono
 cocodrilo
 guacamaya
+Leon
+zarigueya
